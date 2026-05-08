@@ -1,10 +1,79 @@
-# Python-generated files
+# =========================
+# Python
+# =========================
 __pycache__/
-*.py[oc]
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+.env.*
+
+# Python Packaging
 build/
 dist/
-wheels/
-*.egg-info
+*.egg-info/
 
-# Virtual environments
-.venv
+# Logs
+*.log
+logs/
+
+# Coverage / Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# LangSmith / LangGraph
+.langgraph_api/
+.langsmith/
+
+# Node.js
+node_modules/
+
+# Frontend Build
+.next/
+out/
+dist/
+
+# Docker
+docker-compose.override.yml
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# AWS
+.aws/
+
+# MCP Runtime
+.mcp/
+
+# Temporary Files
+tmp/
+temp/
+
+# IDE
+.idea/
+
+# SQLite
+*.db
+*.sqlite3
