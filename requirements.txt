@@ -1,0 +1,11 @@
+langchain
+langchain-aws
+langgraph
+langchain-community
+mcp
+fastmcp
+fastapi
+uvicorn
+pydantic
+boto3
+langchain-mcp-adapters
