@@ -1,6 +1,6 @@
 # Backend Infrastruture
 
--This file contains all the Backend Setup of our Cloud Agent
+This file contains all the Backend Setup of our Cloud Agent
     -MCP Adapter
     -Agents
     -Api
